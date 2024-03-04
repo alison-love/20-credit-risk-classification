@@ -34,7 +34,7 @@ Machine Learning Model 2 (Resampled Data):
 
 ### Summary
 
-Comparing the two models, Machine Learning Model 2, which utilized resampled data to correct for class imbalance, exhibited superior overall performance. The improvement in balanced accuracy from 0.9669 to 0.9941 highlights the effectiveness of addressing class imbalance in enhancing model reliability across both classes. The remarkable recall improvement for high-risk loans in Model 2 emphasizes its utility in accurately identifying high-risk borrowers, which is paramount for reducing default risks.
+Comparing the two models, Machine Learning Model 2, which utilized resampled data to correct for class imbalance, exhibited superior overall performance. The improvement in balanced accuracy from 0.9669 to 0.9941 highlights the effectiveness of addressing class imbalance in enhancing model reliability across both classes. The recall improvement for high-risk loans in Model 2 emphasizes its utility in accurately identifying high-risk borrowers, which is paramount for reducing default risks.
 
 Given the objective of accurately identifying both healthy and high-risk loans, Model 2's enhanced recall for high-risk loans without a substantial compromise in precision makes it the recommended model for deployment. Its outstanding performance underscores the importance of addressing class imbalance in datasets to improve model accuracy and reliability in real-world applications.
 
